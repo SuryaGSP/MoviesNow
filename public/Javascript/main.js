@@ -1,7 +1,7 @@
 console.log("file loaded");
 $.ajax({
   type:"GET",
-  url:"http://localhost:3000/movies/all",
+  url:"/movies/all",
   dataType:"json",
   success:function(response){
       //console.log("Data from success",response);
