@@ -1,0 +1,66 @@
+.surya1{
+  width:200px;
+}
+.surya12{
+  width: 30px;
+  display: inline-block;
+  margin-left:20px;
+}
+footer img{
+   padding-top:20px;
+}
+.fright{
+  float:right;
+}
+.fleft{
+  float: left;
+}
+.clearb{
+  clear: both;
+}
+textarea,select,input{
+  background-color:  #442D4B;
+  color: white;
+  border: 1px solid white;
+  width: 100%;
+}
+.kin{
+  width: 50%;
+}
+.widtha{
+    background-color: #ffcb59;
+    width:100px;
+    display:block;
+}
+.bodybg{
+   background-color:#442D4B;
+   color: white;
+   font-family:'Lato',sans-serif;
+   padding-bottom: 20px;
+}
+
+form{
+  width: 500px;
+  margin: 0 auto;
+   line-height:20px;
+}
+.foot{
+  margin-right: 20px;
+  background-color:#000000;
+}
+h2{
+  font-size: 50px;
+}
+nav ul li{
+  display: inline-block;
+  margin-right: 20px;
+  font-size: 20px;
+}
+a:link{
+  text-decoration: none;
+  color: #ffcb59;
+}
+header{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
